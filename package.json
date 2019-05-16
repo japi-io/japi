@@ -1,0 +1,31 @@
+{
+  "name": "japi",
+  "version": "0.1.0",
+  "description": "A JSON:API-compliant framework based on Hapi.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:japi-io/japi.git"
+  },
+  "keywords": [
+    "japi",
+    "hapi.js",
+    "framework",
+    "jsonapi",
+    "json:api",
+    "api",
+    "rest"
+  ],
+  "author": "Thomas Domingues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/japi-io/japi/issues"
+  },
+  "homepage": "https://github.com/japi-io/japi#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1"
+  }
+}
